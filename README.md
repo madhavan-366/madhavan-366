@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                    AI / ML PROFILE                         -->
+<!--                  AI / ML GITHUB PROFILE                    -->
 <!-- ========================================================= -->
 
 <h1 align="center">
@@ -12,12 +12,12 @@ Hi 👋, I'm Madhavan K M
 
 <p align="center">
 Building Intelligent AI Applications with Machine Learning,
-Deep Learning, NLP, Data Analytics & Modern Web Technologies.
+Data Analytics and Modern Web Technologies.
 </p>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Machine+Learning;Data+Analytics;Full+Stack+Developer;Building+AI+Products;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=800&color=00E5FF&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Analytics;Full+Stack+Developer;Building+Real+World+AI+Applications"/>
 
 </p>
 
@@ -25,21 +25,21 @@ Deep Learning, NLP, Data Analytics & Modern Web Technologies.
 
 # 🤖 About Me
 
-🎓 **B.Tech - Artificial Intelligence & Data Science**
+🎓 **B.Tech – Artificial Intelligence & Data Science**
 
 🏫 Rajalakshmi Institute of Technology
 
-📍 Chennai, India
+📍 Chennai, Tamil Nadu, India
 
-🧠 Passionate about solving real-world problems using AI.
+💡 Passionate about Artificial Intelligence, Machine Learning and Data Analytics.
 
-💻 Love building AI-powered Web Applications.
+🚀 Building scalable AI-powered web applications using modern technologies.
 
-📈 Exploring LLMs, RAG, AI Agents and Cloud Deployment.
+🧠 Exploring LLMs, RAG, AI Agents and Cloud Deployment.
 
 ---
 
-# ⚡ AI Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -49,15 +49,15 @@ Deep Learning, NLP, Data Analytics & Modern Web Technologies.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-1E88E5?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-7B1FA2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/NLP-FF9800?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Computer%20Vision-00BCD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00ACC1?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-43A047?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LLMs-E91E63?style=for-the-badge"/>
 
@@ -69,7 +69,7 @@ Deep Learning, NLP, Data Analytics & Modern Web Technologies.
 
 ---
 
-# 🧠 AI Resources
+# 🤖 AI Resources
 
 <p align="center">
 
@@ -87,23 +87,21 @@ Deep Learning, NLP, Data Analytics & Modern Web Technologies.
 
 ---
 
-# 📈 AI Activity Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavan-366&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=madhavan-366&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-# 🚀 Live Developer Zone
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhavan-366&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavan-366&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavan-366&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -135,38 +133,6 @@ Deep Learning, NLP, Data Analytics & Modern Web Technologies.
 
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/madhavan-366/madhavan-366/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-```text
-🤖 Retrieval-Augmented Generation (RAG)
-
-🧠 Large Language Models (LLMs)
-
-⚡ LangChain & LangGraph
-
-🤖 AI Agents
-
-☁️ Cloud Deployment
-
-🚀 FastAPI
-
-📊 Advanced Data Analytics
-```
-
----
-
 # 💡 AI Philosophy
 
 ```text
@@ -184,5 +150,7 @@ and creating meaningful AI-powered products.
 <p align="center">
 
 ⭐ Thanks for visiting my profile!
+
+### "Code. Learn. Build. Repeat."
 
 </p>
