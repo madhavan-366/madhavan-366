@@ -1,66 +1,75 @@
-<!-- ===================================================== -->
-<!--                    HEADER                             -->
-<!-- ===================================================== -->
+<!-- ========================================================= -->
+<!--                    AI / ML PROFILE                         -->
+<!-- ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm Madhavan K M</h1>
+<h1 align="center">
+Hi 👋, I'm Madhavan K M
+</h1>
 
 <h3 align="center">
-AI/ML Engineer • Data Analyst • Full Stack Developer
+🤖 AI/ML Engineer • 📊 Data Analyst • 💻 Full Stack Developer
 </h3>
 
 <p align="center">
-Building AI-powered applications with Machine Learning, Data Analytics & Modern Web Technologies.
+Building Intelligent AI Applications with Machine Learning,
+Deep Learning, NLP, Data Analytics & Modern Web Technologies.
 </p>
 
-<!-- Typing Animation -->
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Data+Analyst;Full+Stack+Developer;Building+Intelligent+Applications;Always+Learning+New+Technologies" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Machine+Learning;Data+Analytics;Full+Stack+Developer;Building+AI+Products;Always+Learning+New+Technologies"/>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 🤖 About Me
 
-🎓 B.Tech Artificial Intelligence & Data Science
+🎓 **B.Tech - Artificial Intelligence & Data Science**
 
 🏫 Rajalakshmi Institute of Technology
 
-📍 Chennai, Tamil Nadu, India
+📍 Chennai, India
 
-💡 Passionate about AI, Machine Learning, Data Analytics and Full Stack Development.
+🧠 Passionate about solving real-world problems using AI.
 
-🎯 Building real-world AI applications with modern UI and scalable backend systems.
+💻 Love building AI-powered Web Applications.
+
+📈 Exploring LLMs, RAG, AI Agents and Cloud Deployment.
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ AI Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,flask,fastapi,mongodb,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,fastapi,flask,mongodb,mysql,git,github,vscode"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-1E90FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/NLP-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-FF9800?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-00BCD4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Excel-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-E91E63?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Excel-107C41?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🤖 AI Resources I Use
+# 🧠 AI Resources
 
 <p align="center">
 
@@ -78,7 +87,7 @@ Building AI-powered applications with Machine Learning, Data Analytics & Modern 
 
 ---
 
-# 📈 Activity Graph
+# 📈 AI Activity Graph
 
 <p align="center">
 
@@ -88,13 +97,13 @@ Building AI-powered applications with Machine Learning, Data Analytics & Modern 
 
 ---
 
-# 💻 Live Developer Zone
+# 🚀 Live Developer Zone
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhavan-366&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=madhavan-366&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavan-366&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavan-366&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </p>
 
@@ -118,24 +127,6 @@ Building AI-powered applications with Machine Learning, Data Analytics & Modern 
 
 ---
 
-# 🧠 Currently Learning
-
-```text
-🤖 Retrieval-Augmented Generation (RAG)
-
-🧠 Large Language Models (LLMs)
-
-⚡ AI Agents & LangGraph
-
-📊 Advanced Data Analytics
-
-☁️ Cloud Deployment
-
-🚀 FastAPI & AI APIs
-```
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -146,23 +137,46 @@ Building AI-powered applications with Machine Learning, Data Analytics & Modern 
 
 ---
 
-# 🐍 Contribution Universe
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github.com/madhavan-366/madhavan-366/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/madhavan-366/madhavan-366/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 💡 Developer Philosophy
+# 📚 Currently Learning
 
 ```text
-I believe in learning by building.
+🤖 Retrieval-Augmented Generation (RAG)
 
-Every project is an opportunity to solve a real-world problem,
-improve my technical skills, and create meaningful impact through AI.
+🧠 Large Language Models (LLMs)
+
+⚡ LangChain & LangGraph
+
+🤖 AI Agents
+
+☁️ Cloud Deployment
+
+🚀 FastAPI
+
+📊 Advanced Data Analytics
+```
+
+---
+
+# 💡 AI Philosophy
+
+```text
+Artificial Intelligence is not about replacing humans.
+
+It is about augmenting human intelligence.
+
+I believe in learning by building,
+solving real-world problems,
+and creating meaningful AI-powered products.
 ```
 
 ---
