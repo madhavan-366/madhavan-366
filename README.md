@@ -69,6 +69,8 @@ Data Analytics and Modern Web Technologies.
 
 ---
 
+---
+
 # 🤖 AI Resources
 
 <p align="center">
@@ -85,17 +87,7 @@ Data Analytics and Modern Web Technologies.
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=madhavan-366&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
 
 # 📈 GitHub Activity Graph
 
@@ -132,6 +124,28 @@ Data Analytics and Modern Web Technologies.
 <img src="https://streak-stats.demolab.com?user=madhavan-366&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+# 💻 Development Environment
+
+🖥️ VS Code
+
+🐍 Python
+
+🌐 React
+
+⚙️ FastAPI
+
+🛢 MongoDB
+
+🐬 MySQL
+
+🌱 Git
+
+🐙 GitHub
+
+📊 Power BI
+
+📓 Jupyter Notebook
 
 # 💡 AI Philosophy
 
