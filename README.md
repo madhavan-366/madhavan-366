@@ -153,6 +153,7 @@ Artificial Intelligence is not about replacing humans.
 It is about augmenting human intelligence.
 
 ```
-##⭐ Thanks for visiting my profile!
+
+⭐ Thanks for visiting my profile!
 
 "Code. Learn. Build. Repeat."
